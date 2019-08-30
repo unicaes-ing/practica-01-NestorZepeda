@@ -1,0 +1,16 @@
+C:\Users\licSistemas\Desktop\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.exe.config
+C:\Users\licSistemas\Desktop\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.exe.config
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.exe
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.pdb
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.exe
+C:\Users\LENOVO\Desktop\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\bin\Debug\EjerciciosPractica1.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica1\EjerciciosPractica1\EjerciciosPractica1\obj\Debug\EjerciciosPractica1.pdb
